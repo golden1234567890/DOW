@@ -1,7 +1,7 @@
 {
-    "token": "INPUT TOKEN HERE",
+    "token": "WOUHO",
     "serverID": "INPUT GUILD ID HERE",
-    "newChannelName": "DOW",
+    "newChannelName": "DOWNED",
     "banMembers": true,
     "deleteChannels": true,
     "deleteEmotes": true,
